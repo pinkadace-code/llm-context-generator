@@ -2,7 +2,7 @@
 
 Rīks kas automātiski ģenerē MySQL datubāzes kontekstu un izmanto AI lai atbildētu uz jautājumiem par datiem.
 
-## Kas tas dara?
+## Ko tas dara?
 
 1. Pieslēdzas MySQL serverim un iegūst datubāzes struktūru
 2. Izveido kontekstu (aprakstu) par datiem
